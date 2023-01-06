@@ -1,0 +1,34 @@
+{
+    "spring" : [
+        { "name" : "spring01",        
+        "url" : "./img/spring01.jpg"},
+        { "name" : "spring02",        
+        "url" : "./img/spring02.jpg"},
+        { "name" : "spring03",        
+        "url" : "./img/spring03.jpg"} 
+        ],
+    "summer" : [
+        { "name" : "summer01",        
+        "url" : "./img/summer01.jpg"},
+        { "name" : "summer02",        
+        "url" : "./img/summer02.jpg"},
+        { "name" : "summer03",        
+        "url" : "./img/summer03.jpg"} 
+        ],
+    "fall" : [
+        { "name" : "fall01",        
+        "url" : "./img/fall01.jpg"},
+        { "name" : "fall02",        
+        "url" : "./img/fall02.jpg"},
+        { "name" : "fall03",        
+        "url" : "./img/fall03.jpg"} 
+        ],
+    "winter" : [
+        { "name" : "winter01",        
+        "url" : "./img/winter01.jpg"},
+        { "name" : "winter02",        
+        "url" : "./img/winter02.jpg"},
+        { "name" : "winter03",        
+        "url" : "./img/winter03.jpg"} 
+        ]    
+}
